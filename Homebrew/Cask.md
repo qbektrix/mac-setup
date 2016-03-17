@@ -53,3 +53,5 @@ I'll now cover installation of the apps that I have mentioned in the apps sectio
     $ brew cask install transmission
     $ brew cask install valentina-studio
     $ brew cask install vlc
+
+for more http://computers.tutsplus.com/tutorials/perfect-configurations-with-homebrew-and-cask--cms-20768
